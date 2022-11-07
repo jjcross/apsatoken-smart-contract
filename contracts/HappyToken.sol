@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: Apache-1.0
 pragma solidity 0.6.12;
 
-contract HappyToken {
-    string public name     = "Happy";
-    string public symbol   = "HAP";
+contract ApsaToken {
+    string public name     = "APSA";
+    string public symbol   = "APS";
     uint8  public decimals = 18;
 
     event  Approval(address indexed src, address indexed guy, uint wad);
